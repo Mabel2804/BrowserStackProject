@@ -1,5 +1,6 @@
 # BrowserStackProject
 This project is part of BrowserStack Tech Assessment
+{Please Note : I have commited the code from Christopher Thomas's Laptop (my husband) as I don't have a personal laptop}
 
 
 ## Features
